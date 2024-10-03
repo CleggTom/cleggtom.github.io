@@ -1,0 +1,9 @@
+docs:
+- title: About Me
+  url: index.html
+
+- title: Publications
+  url: publications.html
+
+- title: Research Interests
+  url: research.html
