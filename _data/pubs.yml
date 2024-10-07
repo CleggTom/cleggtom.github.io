@@ -4,111 +4,112 @@ references:
 - author:
   - family: Clegg
     given: Tom
-  - family: Ali
-    given: Mohammad
-  - family: Beckerman
-    given: Andrew P
-  container-title: Ecology
-  doi: "https://doi.org/10.1002/ecy.2523"
-  id: clegg2018impact
-  issue: 12
-  issued: 2018
-  page: 2712-2720
-  publisher: Wiley Online Library
-  title: The impact of intraspecific variation on food web structure
-  type: article-journal
-  volume: 99
-- author:
-  - family: Simmons
-    given: Benno I
-  - family: Blyth
-    given: Penelope SA
-  - family: Blanchard
-    given: Julia L
-  - family: Clegg
-    given: Tom
-  - family: Delmas
-    given: Eva
-  - family: Garnier
-    given: Aurélie
-  - family: Griffiths
-    given: Christopher A
-  - family: Jacob
-    given: Ute
-  - family: Pennekamp
-    given: Frank
-  - family: Petchey
-    given: Owen L
-  - literal: others
-  container-title: Nature Ecology & Evolution
-  doi: "https://doi.org/10.1038/s41559-021-01547-4"
-  id: simmons2021refocusing
-  issued: 2021
-  page: 1-12
-  publisher: Nature Publishing Group
-  title: Refocusing multiple stressor research around the targets and
-    scales of ecological impacts
-  type: article-journal
-- author:
-  - family: Delmas
-    given: E
-  - family: Bideault
-    given: A
-  - family: Clegg
-    given: T
-  - family: Poisot
-    given: T
-  container-title: Software
-  doi: "https://doi.org/10.5281/zenodo.2583996"
-  id: delmassimulations
-  issued: 2018
-  title: Simulations of biomass dynamics and extinctions in food webs
-  type: article-journal
-- author:
-  - family: Smith
-    given: Thomas P
-  - family: Clegg
-    given: Tom
-  - family: Bell
-    given: Thomas
-  - family: Pawar
-    given: Samrāt
-  container-title: Ecology Letters
-  doi: "https://doi.org/10.1111/ele.13840"
-  id: smith2021systematic
-  issue: 10
-  issued: 2021
-  page: 2123-2133
-  publisher: Wiley Online Library
-  title: Systematic variation in the temperature dependence of bacterial
-    carbon use efficiency
-  type: article-journal
-  volume: 24
-- author:
-  - family: Lechón-Alonso
-    given: Pablo
-  - family: Clegg
-    given: Tom
-  - family: Cook
-    given: Jacob
-  - family: Smith
-    given: Thomas P
   - family: Pawar
     given: Samraat
-  container-title: PLoS computational biology
-  doi: "https://doi.org/10.1371/journal.pcbi.1009584"
-  id: lechon2021role
-  issue: 11
-  issued: 2021
-  page: e1009584
-  publisher: Public Library of Science San Francisco, CA USA
-  title: The role of competition versus cooperation in microbial
-    community coalescence
+  container-title: eLife
+  doi: 10.7554/elife.84662
+  id: Clegg_2024
+  issn: 2050-084X
+  issued: 2024-09
+  publisher: eLife Sciences Publications, Ltd
+  title: Variation in thermal physiology can drive the
+    temperature-dependence of microbial community richness
   type: article-journal
-  volume: 17
+  url: "http://dx.doi.org/10.7554/elife.84662"
+  volume: 13
 - author:
-  - family: Garcı́a
-    given: Francisca C
+  - family: Stark
+    given: Keila A.
+  - family: Clegg
+    given: Tom
+  - family: Bernhardt
+    given: Joey R.
+  - family: Grainger
+    given: Tess N.
+  - family: Kempes
+    given: Christopher P.
+  - family: Savage
+    given: Van
+  - family: O'Connor
+    given: Mary I.
+  - family: Pawar
+    given: Samraat
+  container-title: The American Naturalist
+  doi: 10.1086/733197
+  id: Stark_2024
+  issn: 1537-5323
+  issued: 2024-09
+  publisher: University of Chicago Press
+  title: Towards a more dynamic metabolic theory of ecology to predict
+    climate change effects on biological systems
+  type: article-journal
+  url: "http://dx.doi.org/10.1086/733197"
+  tag: "Thermal Ecology"
+- author:
+  - family: Smith
+    given: Thomas P.
+  - family: Clegg
+    given: Tom
+  - family: Ransome
+    given: Emma
+  - family: Martin-Lilley
+    given: Thomas
+  - family: Rosindell
+    given: James
+  - family: Woodward
+    given: Guy
+  - family: Pawar
+    given: Samraat
+  - family: Bell
+    given: Thomas
+  container-title: Nature Microbiology
+  doi: 10.1038/s41564-024-01626-9
+  id: Smith_2024
+  issn: 2058-5276
+  issue: 4
+  issued: 2024-03
+  page: 938-948
+  publisher: Springer Science; Business Media LLC
+  title: High-throughput characterization of bacterial responses to
+    complex mixtures of chemical pollutants
+  type: article-journal
+  url: "http://dx.doi.org/10.1038/s41564-024-01626-9"
+  volume: 9
+- author:
+  - family: Bellotto-Trigo
+    given: Flavia C.
+  - family: Uezu
+    given: Alexandre
+  - family: Hatfield
+    given: Jack H.
+  - family: Morante-Filho
+    given: José C.
+  - dropping-particle: dos
+    family: Anjos
+    given: Luis
+  - family: Develey
+    given: Pedro F.
+  - family: Clegg
+    given: Thomas
+  - family: Orme
+    given: C. David L.
+  - family: Banks-Leite
+    given: Cristina
+  container-title: Biological Conservation
+  doi: 10.1016/j.biocon.2023.110167
+  id: Bellotto_Trigo_2023
+  issn: 0006-3207
+  issued: 2023-08
+  page: 110167
+  publisher: Elsevier BV
+  title: Intraspecific variation in sensitivity to habitat fragmentation
+    is influenced by forest cover and distance to the range edge
+  type: article-journal
+  url: "http://dx.doi.org/10.1016/j.biocon.2023.110167"
+  volume: 284
+- author:
+  - family: García
+    given: Francisca C.
   - family: Clegg
     given: Tom
   - family: O'Neill
@@ -120,58 +121,143 @@ references:
   - family: Yvon-Durocher
     given: Gabriel
   container-title: Nature Microbiology
-  doi: "https://doi.org/10.1038/s41564-022-01283-w"
-  id: garcia2023temperature
+  doi: 10.1038/s41564-022-01283-w
+  id: Garc_a_2023
+  issn: 2058-5276
   issue: 2
-  issued: 2023
+  issued: 2023-02
   page: 272-283
-  publisher: Nature Publishing Group UK London
+  publisher: Springer Science; Business Media LLC
   title: The temperature dependence of microbial community respiration
     is amplified by changes in species interactions
   type: article-journal
+  url: "http://dx.doi.org/10.1038/s41564-022-01283-w"
   volume: 8
+- author:
+  - family: Lechón-Alonso
+    given: Pablo
+  - family: Clegg
+    given: Tom
+  - family: Cook
+    given: Jacob
+  - family: Smith
+    given: Thomas P.
+  - family: Pawar
+    given: Samraat
+  container-title: PLOS Computational Biology
+  doi: 10.1371/journal.pcbi.1009584
+  editor:
+  - family: Segrè
+    given: Daniel
+  id: Lech_n_Alonso_2021
+  issn: 1553-7358
+  issue: 11
+  issued: 2021-11
+  page: e1009584
+  publisher: Public Library of Science (PLoS)
+  title: The role of competition versus cooperation in microbial
+    community coalescence
+  type: article-journal
+  url: "http://dx.doi.org/10.1371/journal.pcbi.1009584"
+  volume: 17
+- author:
+  - family: Smith
+    given: Thomas P.
+  - family: Clegg
+    given: Tom
+  - family: Bell
+    given: Thomas
+  - family: Pawar
+    given: Samrāt
+  container-title: Ecology Letters
+  doi: 10.1111/ele.13840
+  editor:
+  - family: Bardgett
+    given: Richard
+  id: Smith_2021
+  issn: 1461-0248
+  issue: 10
+  issued: 2021-07
+  page: 2123-2133
+  publisher: Wiley
+  title: Systematic variation in the temperature dependence of bacterial
+    carbon use efficiency
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/ele.13840"
+  volume: 24
+- author:
+  - family: Simmons
+    given: Benno I.
+  - family: Blyth
+    given: Penelope S. A.
+  - family: Blanchard
+    given: Julia L.
+  - family: Clegg
+    given: Tom
+  - family: Delmas
+    given: Eva
+  - family: Garnier
+    given: Aurélie
+  - family: Griffiths
+    given: Christopher A.
+  - family: Jacob
+    given: Ute
+  - family: Pennekamp
+    given: Frank
+  - family: Petchey
+    given: Owen L.
+  - family: Poisot
+    given: Timothée
+  - family: Webb
+    given: Thomas J.
+  - family: Beckerman
+    given: Andrew P.
+  container-title: Nature Ecology &amp; Evolution
+  doi: 10.1038/s41559-021-01547-4
+  id: Simmons_2021
+  issn: 2397-334X
+  issue: 11
+  issued: 2021-09
+  page: 1478-1489
+  publisher: Springer Science; Business Media LLC
+  title: Refocusing multiple stressor research around the targets and
+    scales of ecological impacts
+  type: article-journal
+  url: "http://dx.doi.org/10.1038/s41559-021-01547-4"
+  volume: 5
+- author:
+  - family: Delmas
+    given: Eva
+  - family: Bideault
+    given: Azenor
+  - family: Clegg
+    given: Tom
+  - family: Poisot
+    given: Timothée
+  doi: 10.5281/ZENODO.2583996
+  id: "https://doi.org/10.5281/zenodo.2583996"
+  issued: 2019
+  publisher: Zenodo
+  title: Simulations of biomass dynamics and extinctions in food webs
+  url: "https://zenodo.org/record/2583996"
 - author:
   - family: Clegg
     given: Tom
-  - family: Pawar
-    given: Samraat
-  container-title: eLife
-  doi: "https://doi.org/10.7554/elife.84662"
-  id: clegg2022variation
-  issued: 2024
-  page: 2022-10
-  title: Variation in thermal physiology can drive the
-    temperature-dependence of microbial community richness
+  - family: Ali
+    given: Mohammad
+  - family: Beckerman
+    given: Andrew P.
+  container-title: Ecology
+  doi: 10.1002/ecy.2523
+  id: Clegg_2018
+  issn: 1939-9170
+  issue: 12
+  issued: 2018-10
+  page: 2712-2720
+  publisher: Wiley
+  title: The impact of intraspecific variation on food web structure
   type: article-journal
-- author:
-  - family: Bellotto-Trigo
-    given: Flavia C
-  - family: Uezu
-    given: Alexandre
-  - family: Hatfield
-    given: Jack H
-  - family: Morante-Filho
-    given: José C
-  - dropping-particle: dos
-    family: Anjos
-    given: Luis
-  - family: Develey
-    given: Pedro F
-  - family: Clegg
-    given: Thomas
-  - family: Orme
-    given: C David L
-  - family: Banks-Leite
-    given: Cristina
-  container-title: Biological Conservation
-  doi: "https://doi.org/10.1016/j.biocon.2023.110167"
-  id: bellotto2023intraspecific
-  issued: 2023
-  page: 110167
-  publisher: Elsevier
-  title: Intraspecific variation in sensitivity to habitat fragmentation
-    is influenced by forest cover and distance to the range edge
-  type: article-journal
-  volume: 284
+  url: "http://dx.doi.org/10.1002/ecy.2523"
+  volume: 99
 ---
 

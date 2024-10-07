@@ -1,13 +1,13 @@
 main:
   - title: Thermal Ecology
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at ipsum dignissim, finibus purus at, consectetur massa. Nulla libero tellus, sodales non vehicula eget, tempor in diam. Donec facilisis ipsum in malesuada tincidunt. Aliquam sit amet odio nunc. Integer aliquam euismod ex nec egestas. Proin ultrices imperdiet libero, sit amet facilisis lorem imperdiet at. Aliquam congue orci tortor, non scelerisque enim posuere id. Nam sit amet maximus libero. Suspendisse id condimentum mi, at feugiat massa. Nam porttitor tellus vitae enim bibendum, at interdum ligula bibendum. Integer non purus velit. 
-    img: assets/img/favicon.png
+    text: Temperature is a driving force 
+    img: assets/img/research/temperature.png 
 
   - title: Microbial Ecology
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at ipsum dignissim, finibus purus at, consectetur massa. Nulla libero tellus, sodales non vehicula eget, tempor in diam. Donec facilisis ipsum in malesuada tincidunt. Aliquam sit amet odio nunc. Integer aliquam euismod ex nec egestas. Proin ultrices imperdiet libero, sit amet facilisis lorem imperdiet at. Aliquam congue orci tortor, non scelerisque enim posuere id. Nam sit amet maximus libero. Suspendisse id condimentum mi, at feugiat massa. Nam porttitor tellus vitae enim bibendum, at interdum ligula bibendum. Integer non purus velit. 
-    img: assets/img/research/microbial.png
+    text: Microbial communties are diverse and complex, consiting of many populations interacting with each other and their environment. I am interested in understanding how these communites are structured, their dynamic properties and what allows them to perform the diverse functions 
+    img: assets/img/research/microbe.png
 
 
   - title: Complex Systems
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at ipsum dignissim, finibus purus at, consectetur massa. Nulla libero tellus, sodales non vehicula eget, tempor in diam. Donec facilisis ipsum in malesuada tincidunt. Aliquam sit amet odio nunc. Integer aliquam euismod ex nec egestas. Proin ultrices imperdiet libero, sit amet facilisis lorem imperdiet at. Aliquam congue orci tortor, non scelerisque enim posuere id. Nam sit amet maximus libero. Suspendisse id condimentum mi, at feugiat massa. Nam porttitor tellus vitae enim bibendum, at interdum ligula bibendum. Integer non purus velit. 
-    img: assets/img/favicon.png
+    img: assets/img/research/complexity.png
